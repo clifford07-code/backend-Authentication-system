@@ -47,4 +47,4 @@ GET /logout-all – Logout from all devices
 
 GET /GetMe – Protected route
 
-hi
+
